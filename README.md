@@ -20,4 +20,6 @@ You can view the Figma design here: [Figma Design Link](https://www.figma.com/de
 ## 📷 Screenshots
 
 
-![Screenshot (99)](https://github.com/user-attachments/assets/171fdf2a-3706-4254-935e-44acc05620d8)
+![Screenshot (100)](https://github.com/user-attachments/assets/8beeaabf-121c-4ba4-bcef-87266f982128)
+
+![Screenshot (102)](https://github.com/user-attachments/assets/fbfae865-b960-4a87-bffa-6596a6326fb6)
